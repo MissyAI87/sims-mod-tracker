@@ -2,3 +2,9 @@
   "WickedWhims.package": "2025-06-01",
   "mccommand_center.ts4script": "2025-06-10"
 }
+{
+  "ExampleMod.package": {
+    "latest": "2025-06-12",
+    "url": "https://example.com/ExampleMod.package"
+  }
+}
